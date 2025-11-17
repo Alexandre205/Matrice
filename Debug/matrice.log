@@ -1,0 +1,8 @@
+﻿  fichierMatrice.c
+  main.c
+  obtention.c
+C:\Users\alexa\ProgrammationS\projetNulPerso\matrice\main.c(82,11): warning C4101: 'matR' : variable locale non référencée
+  operateur.c
+  operationMatrice.c
+  Génération de code en cours...
+  matrice.vcxproj -> C:\Users\alexa\ProgrammationS\projetNulPerso\Debug\matrice.exe
